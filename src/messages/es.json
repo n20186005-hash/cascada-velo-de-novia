@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "title": "Cascada Velo de Novia | Cascada Velo de Novia | Cascada / Mirador / Parque Ecológico",
+    "description": "Explora la Cascada Velo de Novia en Valle de Bravo, México. Esta hermosa cascada, mirador y parque ecológico se encuentra en el Estado de México, una de las atracciones naturales más populares de Valle de Bravo."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al inicio"
+  },
+  "hero": {
+    "title": "Cascada Velo de Novia",
+    "subtitle": "Estado de México · México",
+    "rating": "4.7",
+    "reviewCount": "7,383",
+    "hours": "Abierto 24/7",
+    "openMaps": "Ver ubicación"
+  },
+  "intro": {
+    "title": "Explora la Cascada Velo de Novia",
+    "description": "La Cascada Velo de Novia se encuentra en Valle de Bravo, Estado de México, México. Esta hermosa cascada recibe su nombre por el agua que fluye suavemente como un velo de novia, y es uno de los destinos de senderismo y miradores más populares alrededor de Valle de Bravo. Los visitantes pueden disfrutar de la belleza de la naturaleza aquí, tomar fotos increíbles y caminar por el Paseo Ecológico Interpretativo Velo de Novia.",
+    "visitGuide": {
+      "title": "Consejos de visita",
+      "items": [
+        "Visita en la mañana o tarde para evitar el sol del mediodía y las multitudes",
+        "Usa zapatos cómodos para caminar, algunas secciones pueden estar resbaladizas",
+        "Lleva una cámara, este es el mejor lugar para fotografía de naturaleza",
+        "Lleva agua potable y protección solar, la radiación UV es fuerte en el altiplano mexicano"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Aspectos destacados",
+      "items": [
+        "Cascada Velo de Novia: El agua fluye suavemente como un velo, uno de los paisajes naturales más hermosos de Valle de Bravo.",
+        "Senda Ecológica: El Paseo Ecológico Interpretativo Velo de Novia proporciona señalética interpretativa y experiencias de educación natural.",
+        "Plataformas de observación: Múltiples miradores proporcionan excelentes ángulos para fotografiar la cascada y la naturaleza circundante.",
+        "Fácil acceso: Fácilmente accesible en automóvil o taxi desde el centro de Valle de Bravo."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta Turística",
+    "overview": "Descubre la ruta ideal para explorar la Cascada Velo de Novia y experimenta la perfecta combinación de naturaleza y ecología.",
+    "steps": [
+      "Comienza desde el centro de Valle de Bravo, conduce por la carretera hacia la zona de San Lorenzo, about 15-20 minutos para llegar a la entrada de la cascada.",
+      "Estaciona en la entrada del Paseo Ecológico Interpretativo Velo de Novia y comienza a caminar.",
+      "Camina por la senda, disfruta de la vista panorámica de la cascada y toma fotos en los miradores.",
+      "Opccionalmente continúa explorando las áreas de vegetación natural circundante, o descansa cerca de la cascada antes de regresar."
+    ],
+    "supplementsTitle": "Consejos adicionales",
+    "supplements": [
+      "La senda ecológica (Paseo Ecológico) generalmente está abierta todo el día, por favor verifique los horarios específicos con anticipación.",
+      "La mañana y la tarde son los mejores momentos para visitar, con luz suave adecuada para la fotografía.",
+      "Puede haber pequeños vendedores vendiendo bebidas y snacks cerca de la senda, pero lleva tu propia agua.",
+      "Usa zapatos cómodos para caminar, algunas secciones pueden tener pendientes o estar resbaladizas."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el encanto de la Cascada Velo de Novia",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Natural",
+        "content": "La Cascada Velo de Novia es uno de los paisajes naturales más importantes del Valle de Bravo. Esta cascada recibe su nombre por el agua que fluye suavemente como un velo de novia, y se ha convertido en un destino natural favorito para locales y turistas. El circundante Paseo Ecológico Interpretativo Velo de Novia proporciona ricas experiencias de educación natural, permitiendo a los visitantes aprender sobre el entorno ecológico local mientras disfrutan de las hermosas vistas."
+      },
+      {
+        "id": "nature",
+        "title": "Experiencia Natural",
+        "content": "La Cascada Velo de Novia se encuentra dentro de un área natural protegida cerca de Valle de Bravo, rodeada de densa vegetación. Desde aquí puedes disfrutar de la vista espectacular de la cascada, escuchar el sonido del agua fluyendo y sentir la tranquilidad de la naturaleza. Especialmente durante la temporada de lluvias (junio a septiembre), la cascada tiene abundante flujo de agua y un paisaje aún más espectacular. Este también es un lugar clásico para la fotografía de naturaleza."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de visita",
+        "content": "Visitar la Cascada Velo de Novia es una perfecta combinación de belleza natural y educación ecológica. Puedes caminar por la senda ecológica (Paseo Ecológico Interpretativo), disfrutar de la cascada y el paisaje natural circundante, tomar fotos inolvidables en los miradores y aprender sobre la flora y fauna local. Este también es un excelente lugar para picnics y relajarse, permitiéndote escapar del bullicio de la ciudad."
+      },
+      {
+        "id": "rules",
+        "title": "Reglamento para visitantes",
+        "content": "1. Por favor respeta el entorno natural, no tires basura ni dañes la vegetación.\n2. Por favor ten cuidado en el área de la senda, especialmente en secciones resbaladizas.\n3. Por favor mantén el ambiente limpio, no nades ni te laves en el área del agua.\n4. Se recomienda visitar en grupo, especialmente en la tarde y en días lluviosos."
+      },
+      {
+        "id": "species",
+        "title": "Atracciones cercanas",
+        "content": "Hay varias otras atracciones que vale la pena visitar cerca de la Cascada Velo de Novia: el centro de Valle de Bravo (Presa de Valle de Bravo, área de reservorio y actividades al aire libre), el Campo de Golf Avándaro, y el hermoso pueblo de estilo colonial. Desde la cascada, puedes fácilmente conducir de regreso al centro para llegar a estas atracciones y disfrutar de un viaje completo a Valle de Bravo."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información básica",
+    "officialName": "Nombre oficial",
+    "officialNameValue": "Cascada Velo de Novia",
+    "type": "Tipo de sitio",
+    "typeValue": "Cascada / Mirador / Parque Ecológico",
+    "country": "País",
+    "countryValue": "México",
+    "city": "Estado",
+    "cityValue": "Valle de Bravo, Estado de México",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "Manzana 025, San Lorenzo, 51200 Valle de Bravo, Estado de México, Mexico",
+    "plusCode": "Coordenadas GPS",
+    "plusCodeValue": "5V75+J4 Valle de Bravo, Estado de México, Mexico"
+  },
+  "hours": {
+    "title": "Horarios",
+    "outdoor": "Área de observación de la cascada",
+    "outdoorTime": "Abierto 24/7 (área natural pública)",
+    "lighthouse": "Senda ecológica",
+    "summer": "Diario",
+    "summerTime": "Abierto todo el día (por favor verifique los horarios específicos con anticipación)",
+    "warning": "Notas importantes",
+    "warningTime": "Durante la temporada de lluvias (junio a septiembre) la vista de la cascada es mejor, pero las sendas pueden estar resbaladizas, por favor tenga cuidado",
+    "tip": "Visita en la mañana para evitar multitudes y disfrutar de una experiencia más tranquila en la naturaleza"
+  },
+  "tickets": {
+    "title": "Entradas",
+    "outdoor": "Área de observación de la cascada",
+    "outdoorPrice": "Gratis (área natural pública)",
+    "lighthouse": "Senda ecológica (Paseo Ecológico)",
+    "adults": "Adultos",
+    "adultsPrice": "Puede tener tarifa de entrada (precio sujeto a cambios)",
+    "students": "Niños/Estudiantes",
+    "studentsPrice": "Puede tener descuento (se requiere identificación válida)",
+    "children": "Tarifa de estacionamiento",
+    "childrenPrice": "Puede tener tarifa de estacionamiento",
+    "card": "Consejos",
+    "cardPrice": "Visita en la mañana para ver la naturaleza, lleva una cámara para fotos de la cascada, usa zapatos cómodos para caminar, lleva agua potable"
+  },
+  "transport": {
+    "title": "Cómo llegar",
+    "airport": "Desde el aeropuerto",
+    "airportDesc": "Aeropuerto más cercano: Aeropuerto Internacional de Toluca (TLC), a unos 80 km de Valle de Bravo, aproximadamente 1-1.5 horas en automóvil. Aeropuerto internacional principal: Aeropuerto Internacional de la Ciudad de México (MEX), a unos 150 km, aproximadamente 2-2.5 horas en automóvil.",
+    "selfDrive": "En automóvil",
+    "selfDriveDesc": "Desde la Ciudad de México, toma la Carretera Ciudad de México-Toluca (MEX-134), about 1.5-2 horas a Valle de Bravo. Desde el centro de Valle de Bravo a la cascada es about 15-20 minutos en automóvil.",
+    "bus": "Transporte público",
+    "busDesc": "Desde la Terminal de Observatorio en la Ciudad de México, toma un autobús de larga distancia a Valle de Bravo, about 2-3 horas. Después de llegar a Valle de Bravo, toma un taxi o colectivo (taxi compartido) a la cascada.",
+    "intercity": "Transporte local",
+    "intercityDesc": "Desde el centro de Valle de Bravo, toma un taxi o colectivo about 15-20 minutos para llegar a la entrada de la cascada. También puedes conducir tu propio automóvil o unirte a un tour de un día local.",
+    "cycling": "Servicios cercanos",
+    "cyclingDesc": "Cerca de la cascada puede haber áreas de estacionamiento, pequeños puestos de comida. En el centro de Valle de Bravo hay bancos, cajeros automáticos, farmacias, restaurantes, hoteles y otras instalaciones completas.",
+    "tips": "Consejos de viaje",
+    "tipsDesc": "La Cascada Velo de Novia es una atracción natural imperdible en Valle de Bravo. Visita en la mañana para una experiencia más tranquila en la naturaleza. Tomar un taxi desde el centro de Valle de Bravo es la forma más conveniente."
+  },
+  "gallery": {
+    "title": "Fotos impresionantes",
+    "subtitle": "El encanto de la Cascada Velo de Novia",
+    "captions": [
+      "Vista panorámica de la cascada",
+      "Velo de novia",
+      "Senda ecológica",
+      "Paisaje natural",
+      "Perspectiva del mirador",
+      "Paisaje de vegetación",
+      "Detalles de la cascada",
+      "Senda de senderismo",
+      "Reserva natural",
+      "Vista panorámica de Valle de Bravo"
+    ],
+    "viewAll": "Ver en Google Maps",
+    "showAllPhotos": "Mostrar todas las fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de visitantes",
+    "declaration": "La información de reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver en Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "¡Una atracción natural imperdible en Valle de Bravo! La cascada es muy hermosa, con agua que fluye suavemente como un velo de novia. La senda ecológica también es genial, adecuada para salidas familiares."
+      },
+      {
+        "name": "María Fernanda",
+        "date": "hace 2 semanas",
+        "rating": 5,
+        "text": "Paisaje natural impresionante, el entorno natural alrededor de la cascada está bien preservado. Las fotos tomadas desde el mirador son simplemente perfectas, altamente recomendable visitar en la mañana."
+      },
+      {
+        "name": "Roberto López",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "About 15 minutos en automóvil desde el centro de Valle de Bravo, transporte muy conveniente. El paisaje de la cascada es relajante, un gran lugar para escapar del bullicio de la ciudad."
+      },
+      {
+        "name": "Sofía Martínez",
+        "date": "hace 1 mes",
+        "rating": 4,
+        "text": "Gran atracción natural. La cascada en sí es hermosa, y la senda ecológica también es muy educativa. Recomiendo usar zapatos cómodos para caminar, algunas secciones pueden estar resbaladizas."
+      },
+      {
+        "name": "Alejandro Torres",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "Visitar durante la temporada de lluvias, la cascada tiene abundante flujo de agua y un paisaje aún más espectacular. La senda ecológica Paseo Ecológico está bien diseñada, adecuada para caminar y fotografía."
+      },
+      {
+        "name": "Luisa Hernández",
+        "date": "hace 3 semanas",
+        "rating": 5,
+        "text": "Esta es mi atracción natural favorita en Valle de Bravo. La cascada y el entorno natural circundante son inolvidables, especialmente en la madrugada cuando la neblina se cierne como un país de las hadas."
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "hace 1 mes",
+        "rating": 4,
+        "text": "Hermosa cascada, ubicación conveniente. Puedes pasar una hora aquí, disfrutando tranquilamente de la belleza natural. Recomiendo llevar una botella de agua, el altiplano mexicano es relativamente seco."
+      },
+      {
+        "name": "Carmen Rivera",
+        "date": "hace 2 semanas",
+        "rating": 5,
+        "text": "¡Perfecta atracción natural! El paisaje de la cascada es agradable, la senda ecológica es adecuada para visitantes de todas las edades. Asegúrate de venir en la mañana, la luz es suave y hay menos turistas."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación en el mapa",
+    "subtitle": "Manzana 025, San Lorenzo, 51200 Valle de Bravo, Estado de México, Mexico",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Cascada Velo de Novia. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Relacionados e Información",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Secretaría de Turismo de México",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Secretaría Federal de Turismo",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "culturaedomex": {
+        "name": "Cultura y Turismo del Estado de México",
+        "url": "https://cultura.edomex.gob.mx/"
+      },
+      "conanp": {
+        "name": "Comisión Nacional de Áreas Naturales Protegidas - Valle de Bravo",
+        "url": "https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=185"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos asociación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio 2026",
+    "sections": [
+      {
+        "heading": "1. Información que recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), Cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo utilizamos su información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a consultas y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros, como Google Maps (para mapas integrados y datos de ubicación) y Google Analytics (para análisis de tráfico). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (GDPR) y regulaciones relacionadas, tiene los siguientes derechos: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al procesamiento y presentar una queja ante una autoridad reguladora."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos Términos de Servicio."
+      },
+      {
+        "heading": "2. Uso del contenido",
+        "content": "Todo el contenido de este sitio web es solo para referencia. Somos un sitio web independiente de información turística de terceros y no tenemos asociación con ninguna atracción turística, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar la integridad o exactitud de la información. Los horarios, condiciones y servicios están sujetos a cambios sin previo aviso. Asegúrese de verificar información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad intelectual",
+        "content": "El diseño de este sitio web y el contenido original están protegidos por derechos de autor. El uso de datos de Google Maps cumple con los Términos de Servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de responsabilidad",
+        "content": "Este sitio web se proporciona \"tal cual\", sin ninguna garantía. No somos responsables por ninguna pérdida causada por el uso de la información en este sitio web, incluyendo pero no limitado a decisiones de viaje basadas en el contenido de este sitio web."
+      }
+    ]
+  },
+  "officialManagement": {
+    "title": "Sobre Cascada Velo de Novia",
+    "text": "La Cascada Velo de Novia se encuentra en Valle de Bravo, Estado de México, México. Esta hermosa cascada recibe su nombre por el agua que fluye suavemente como un velo de novia, y es uno de los atracciones naturales más populares de Valle de Bravo. El circundante Paseo Ecológico Interpretativo Velo de Novia proporciona ricas experiencias de educación natural, permitiendo a los visitantes aprender sobre el entorno ecológico local mientras disfrutan de las hermosas vistas."
+  },
+  "management": {
+    "title": "Información de Gestión",
+    "description": "La Cascada Velo de Novia es una atracción natural ubicada en Valle de Bravo, Estado de México. Esta área, como espacio natural público, es gestionada conjuntamente por el Ayuntamiento de Valle de Bravo y las autoridades relevantes del Estado de México para garantizar que los visitantes puedan disfrutar del paisaje natural de manera segura. Algunas sendas ecológicas pueden ser mantenidas por comunidades locales u organizaciones ambientales."
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio 2026\n\nUtilizamos Cookies para mejorar su experiencia de navegación. Puede administrar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas Cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden desactivar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies Analíticas",
+      "description": "Ayudan a comprender cómo los visitantes interactúan con nuestro sitio web al recopilar datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrar anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Preferencias Guardadas!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión de Consentimiento: Puede cambiar su configuración de Cookies en cualquier momento. Tenga en cuenta que desactivar ciertas Cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todo"
+  }
+}

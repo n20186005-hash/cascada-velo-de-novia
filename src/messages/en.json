@@ -1,0 +1,352 @@
+{
+  "meta": {
+    "title": "Cascada Velo de Novia | Bridal Veil Waterfall | Waterfall / Viewpoint / Ecological Park",
+    "description": "Explore Cascada Velo de Novia in Valle de Bravo, Mexico. This beautiful waterfall, viewpoint, and ecological park is located in the State of Mexico, one of the most popular natural attractions in Valle de Bravo."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Cascada Velo de Novia",
+    "subtitle": "State of Mexico · Mexico",
+    "rating": "4.7",
+    "reviewCount": "7,383",
+    "hours": "Open 24/7",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Cascada Velo de Novia",
+    "description": "Cascada Velo de Novia (Bridal Veil Waterfall) is located in Valle de Bravo, State of Mexico, Mexico. This beautiful waterfall gets its name from the water flowing gently like a bridal veil, and is one of the most popular hiking and viewpoint destinations around Valle de Bravo. Visitors can enjoy the beauty of nature here, take amazing photos, and stroll along the Paseo Ecológico Interpretativo Velo de Novia ecological trail.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Visit in the morning or late afternoon to avoid the midday sun and crowds",
+        "Wear comfortable walking shoes, some sections may be slippery",
+        "Bring a camera — this is the best spot for nature photography",
+        "Bring drinking water and sun protection, UV is strong on the Mexican plateau"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Bridal Veil Waterfall: Water flows gently like a veil, one of Valle de Bravo's most beautiful natural landscapes.",
+        "Ecological Trail: Paseo Ecológico Interpretativo Velo de Novia provides interpretive signage and nature education experiences.",
+        "Viewing Platforms: Multiple viewpoints provide excellent angles for photographing the waterfall and surrounding nature.",
+        "Easy Access: Easily reachable by car or taxi from downtown Valle de Bravo."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "Discover the ideal route to explore Cascada Velo de Novia and experience the perfect combination of nature and ecology.",
+    "steps": [
+      "Start from downtown Valle de Bravo, drive along the road to the San Lorenzo area, about 15-20 minutes to reach the waterfall entrance.",
+      "Park at the entrance of Paseo Ecológico Interpretativo Velo de Novia ecological trail and start hiking.",
+      "Walk along the trail, enjoy the panoramic view of the waterfall, and take photos at the viewpoints.",
+      "Optionally continue exploring the surrounding natural vegetation areas, or rest near the waterfall before heading back."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "The ecological trail (Paseo Ecológico) is typically open all day, please verify specific times in advance.",
+      "Morning and late afternoon are the best times to visit, with soft light suitable for photography.",
+      "There may be small vendors selling drinks and snacks near the trail, but bring your own water.",
+      "Wear comfortable walking shoes, some sections may have inclines or be slippery."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Cascada Velo de Novia",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Natural Significance",
+        "content": "Cascada Velo de Novia is one of the most important natural landscapes in the Valle de Bravo region. This waterfall gets its name from the water flowing gently like a bridal veil, and has become a favorite natural destination for locals and tourists. The surrounding Paseo Ecológico Interpretativo Velo de Novia ecological trail provides rich nature education experiences, allowing visitors to learn about the local ecological environment while enjoying the beautiful scenery."
+      },
+      {
+        "id": "nature",
+        "title": "Nature Experience",
+        "content": "Cascada Velo de Novia is located within a natural conservation area near Valle de Bravo, surrounded by dense vegetation. From here you can enjoy the spectacular view of the waterfall, hear the sound of flowing water, and feel the tranquility of nature. Especially during the rainy season (June to September), the waterfall has abundant water flow and even more spectacular scenery. This is also a classic spot for nature photography."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Visiting Cascada Velo de Novia is a perfect blend of natural beauty and ecological education. You can stroll along the ecological trail (Paseo Ecológico Interpretativo), enjoy the waterfall and surrounding natural scenery, take unforgettable photos at viewpoints, and learn about local flora and fauna. This is also an excellent spot for picnics and relaxing, allowing you to escape the hustle and bustle of the city."
+      },
+      {
+        "id": "rules",
+        "title": "Visitor Guidelines",
+        "content": "1. Please respect the natural environment, do not litter or damage vegetation.\n2. Please be mindful of safety in the trail area, especially on slippery sections.\n3. Please keep the environment clean, do not swim or wash in the water area.\n4. It is recommended to visit in groups, especially in the evening and on rainy days."
+      },
+      {
+        "id": "species",
+        "title": "Nearby Attractions",
+        "content": "There are several other attractions worth visiting near Cascada Velo de Novia: downtown Valle de Bravo (Presa de Valle de Bravo, reservoir and outdoor activity area), Avándaro Golf Resort, and the beautiful colonial-style town. From the waterfall, you can easily drive back to the city center to reach these attractions and enjoy a complete Valle de Bravo trip."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Cascada Velo de Novia",
+    "type": "Site Type",
+    "typeValue": "Waterfall / Viewpoint / Ecological Park",
+    "country": "Country",
+    "countryValue": "Mexico",
+    "city": "State/Province",
+    "cityValue": "Valle de Bravo, State of Mexico",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "Manzana 025, San Lorenzo, 51200 Valle de Bravo, State of Mexico, Mexico",
+    "plusCode": "GPS Coordinates",
+    "plusCodeValue": "5V75+J4 Valle de Bravo, State of Mexico, Mexico"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Waterfall Viewing Area",
+    "outdoorTime": "Open 24/7 (Public natural area)",
+    "lighthouse": "Ecological Trail",
+    "summer": "Daily",
+    "summerTime": "Open all day (please verify specific times in advance)",
+    "warning": "Important Notes",
+    "warningTime": "During rainy season (June to September) the waterfall view is better, but trails may be slippery, please be careful",
+    "tip": "Visit in the morning to avoid crowds and enjoy a more peaceful nature experience"
+  },
+  "tickets": {
+    "title": "Ticket Information",
+    "outdoor": "Waterfall Viewing Area",
+    "outdoorPrice": "Free (public natural area)",
+    "lighthouse": "Ecological Trail (Paseo Ecológico)",
+    "adults": "Adults",
+    "adultsPrice": "May have entrance fee (price subject to change)",
+    "students": "Children/Students",
+    "studentsPrice": "May have discount (valid ID required)",
+    "children": "Parking Fee",
+    "childrenPrice": "May have parking fee",
+    "card": "Tips",
+    "cardPrice": "Visit in the morning for nature views, bring a camera for waterfall photos, wear comfortable walking shoes, bring drinking water"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "Nearest airport: Toluca International Airport (TLC), about 80 km from Valle de Bravo, approx. 1-1.5 hours drive. Main international airport: Mexico City International Airport (MEX), about 150 km, approx. 2-2.5 hours drive.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "From Mexico City, take the Mexico City-Toluca Highway (MEX-134), about 1.5-2 hours to Valle de Bravo. From downtown Valle de Bravo to the waterfall is about 15-20 minutes by car.",
+    "bus": "Public Transport",
+    "busDesc": "From Mexico City Observatorio Bus Station, take a long-distance bus to Valle de Bravo, about 2-3 hours. After arriving in Valle de Bravo, take a taxi or colectivo (shared taxi) to the waterfall.",
+    "intercity": "Local Transport",
+    "intercityDesc": "From downtown Valle de Bravo, take a taxi or colectivo about 15-20 minutes to reach the waterfall entrance. You can also drive yourself or join a local day tour.",
+    "cycling": "Nearby Services",
+    "cyclingDesc": "Near the waterfall there may be parking areas, small food stalls. In Valle de Bravo downtown there are banks, ATMs, pharmacies, restaurants, hotels and other complete service facilities.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Cascada Velo de Novia is a must-visit natural attraction in Valle de Bravo. Visit in the morning for a more peaceful nature experience. Taking a taxi from downtown Valle de Bravo is the most convenient way."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Cascada Velo de Novia",
+    "captions": [
+      "Waterfall panoramic view",
+      "Bridal veil",
+      "Ecological trail",
+      "Natural scenery",
+      "Viewpoint perspective",
+      "Vegetation landscape",
+      "Waterfall details",
+      "Hiking trail",
+      "Natural reserve",
+      "Valle de Bravo panoramic view"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAllPhotos": "Show all photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed through Google Maps (external link).",
+    "moreReviews": "View on Google Maps",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "A must-visit natural attraction in Valle de Bravo! The waterfall is very beautiful, with water flowing gently like a bridal veil. The ecological trail is also great, suitable for family outings."
+      },
+      {
+        "name": "María Fernanda",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Impressive natural landscape, the natural environment around the waterfall is well preserved. Photos taken from the viewpoint are simply perfect, highly recommend visiting in the morning."
+      },
+      {
+        "name": "Roberto López",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "About 15 minutes drive from downtown Valle de Bravo, very convenient transportation. The waterfall scenery is relaxing, a great place to escape the city hustle."
+      },
+      {
+        "name": "Sofía Martínez",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Great natural attraction. The waterfall itself is beautiful, and the ecological trail is also very educational. Recommend wearing comfortable walking shoes, some sections may be slippery."
+      },
+      {
+        "name": "Alejandro Torres",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Visiting during the rainy season, the waterfall has abundant water flow and even more spectacular scenery. The Paseo Ecológico ecological trail is well designed, suitable for walking and photography."
+      },
+      {
+        "name": "Luisa Hernández",
+        "date": "3 weeks ago",
+        "rating": 5,
+        "text": "This is my favorite natural attraction in Valle de Bravo! The waterfall and surrounding natural environment are unforgettable, especially in the early morning when mist lingers like a fairyland."
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "1 month ago",
+        "rating": 4,
+        "text": "Beautiful waterfall, convenient location. You can spend an hour here, quietly enjoying the natural beauty. Recommend bringing a bottle of water, the Mexican plateau is relatively dry."
+      },
+      {
+        "name": "Carmen Rivera",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Perfect natural attraction! The waterfall scenery is pleasant, the ecological trail is suitable for visitors of all ages. Be sure to come in the morning, the light is soft and there are fewer tourists."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Manzana 025, San Lorenzo, 51200 Valle de Bravo, State of Mexico, Mexico",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Cascada Velo de Novia. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Related Resources & Information",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "Mexico National Tourism Board",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "Mexico Federal Government Ministry of Tourism",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "culturaedomex": {
+        "name": "State of Mexico Culture and Tourism",
+        "url": "https://cultura.edomex.gob.mx/"
+      },
+      "conanp": {
+        "name": "National Commission of Natural Protected Areas - Valle de Bravo",
+        "url": "https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=185"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no association with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, pages visited), Cookies and similar technologies, and any information you voluntarily provide through contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information for: improving website content and user experience, analyzing traffic and usage patterns, responding to inquiries, and complying with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services, such as Google Maps (for embedded maps and location data) and Google Analytics (for traffic analysis). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the following rights: access your personal data, request correction or deletion, object to processing, and file a complaint with a regulatory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these Terms of Service."
+      },
+      {
+        "heading": "2. Content Use",
+        "content": "All content on this website is for reference only. We are an independent third-party travel information website and have no association with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but cannot guarantee the completeness or accuracy of the information. Schedules, conditions, and services are subject to change without notice. Please be sure to verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "This website design and original content are copyright protected. The use of Google Maps data complies with Google's Terms of Service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided as is, without any warranties. We are not responsible for any losses caused by the use of information on this website, including but not limited to travel decisions made based on the content of this website."
+      }
+    ]
+  },
+  "officialManagement": {
+    "title": "About Cascada Velo de Novia",
+    "text": "Cascada Velo de Novia is located in Valle de Bravo, State of Mexico, Mexico. This beautiful waterfall gets its name from the water flowing gently like a bridal veil, and is one of the most popular natural attractions in Valle de Bravo. The surrounding Paseo Ecológico Interpretativo Velo de Novia ecological trail provides rich nature education experiences, allowing visitors to learn about the local ecological environment while enjoying the beautiful scenery."
+  },
+  "management": {
+    "title": "Management Information",
+    "description": "Cascada Velo de Novia is a natural attraction located in Valle de Bravo, State of Mexico. This area, as a public natural space, is jointly managed by the Valle de Bravo Municipal Government and relevant State of Mexico authorities to ensure visitors can safely enjoy the natural landscape. Some ecological trails may be maintained by local communities or environmental organizations."
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last updated: June 2026\n\nWe use Cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These Cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to display relevant advertisements and measure the effectiveness of advertising campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can display relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your Cookie settings at any time. Please note that disabling certain Cookies may affect website functionality.",
+    "rejectAll": "Reject All"
+  }
+}

@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "title": "Cascada Velo de Novia | 新娘面纱瀑布 | 瀑布 / 观景台 / 生态公园",
+    "description": "探索墨西哥巴耶－德布拉沃的 Cascada Velo de Novia（新娘面纱瀑布）。这座美丽的瀑布、观景台和生态公园位于墨西哥州，是瓦尔莱－德布拉沃最受欢迎的自然景点之一。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "Cascada Velo de Novia",
+    "subtitle": "墨西哥州 · 墨西哥",
+    "rating": "4.7",
+    "reviewCount": "7,383",
+    "hours": "全天开放",
+    "openMaps": "查看位置"
+  },
+  "intro": {
+    "title": "探索 Cascada Velo de Novia",
+    "description": "Cascada Velo de Novia（新娘面纱瀑布）位于墨西哥墨西哥州巴耶－德布拉沃（Valle de Bravo），是一个美丽的自然景点。这个瀑布因其水流如新娘面纱般轻柔垂下而得名，是巴耶－德布拉沃周边最受欢迎的远足和观景地点之一。游客可以在这里享受大自然的美丽，拍摄令人惊叹的照片，并在 Paseo Ecológico Interpretativo Velo de Novia 生态步道上漫步。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "建议早晨或傍晚时分前往，避开中午的烈日和人群",
+        "穿着舒适的步行鞋，部分路段可能湿滑",
+        "带上相机，这里是拍摄自然风光的最佳位置",
+        "携带饮用水和防晒用品，墨西哥高原紫外线较强"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "核心亮点",
+      "items": [
+        "新娘面纱瀑布：水流轻柔如面纱，是巴耶－德布拉沃最美丽的自然景观之一。",
+        "生态步道：Paseo Ecológico Interpretativo Velo de Novia 提供 interpretativa 标识和自然教育体验。",
+        "观景平台：多个观景点为游客提供拍摄瀑布和周围自然风光的绝佳角度。",
+        "交通便利：从巴耶－德布拉沃市中心驾车或乘坐出租车可轻松到达。"
+      ]
+    }
+  },
+  "route": {
+    "title": "游览路线",
+    "overview": "探索 Cascada Velo de Novia 的理想路线，感受自然与生态的完美结合。",
+    "steps": [
+      "从巴耶－德布拉沃市中心出发，沿道路前往 San Lorenzo 区域，驾车约 15-20 分钟到达瀑布入口。",
+      "在 Paseo Ecológico Interpretativo Velo de Novia 生态步道入口处停车，开始徒步探索。",
+      "沿步道行走，欣赏瀑布全景，在观景台拍摄照片。",
+      "可选择继续探索周围的天然植被区域，或在瀑布附近休息后返回。"
+    ],
+    "supplementsTitle": "游览补充建议",
+    "supplements": [
+      "生态步道（Paseo Ecológico）通常为全天开放，建议提前确认具体时间。",
+      "早晨和傍晚是最佳游览时间，光线柔和，适合拍摄照片。",
+      "步道附近可能有小贩出售饮料和小吃，但建议自带饮用水。",
+      "穿舒适的步行鞋，部分路段可能有一定坡度或湿滑。"
+    ]
+  },
+  "knowledge": {
+    "title": "发现 Cascada Velo de Novia 的魅力",
+    "sections": [
+      {
+        "id": "history",
+        "title": "自然意义",
+        "content": "Cascada Velo de Novia 是巴耶－德布拉沃地区最重要的自然景观之一。这个瀑布因其水流轻柔如新娘面纱般垂下而得名，成为了当地人和游客喜爱的自然胜地。周围的 Paseo Ecológico Interpretativo Velo de Novia 生态步道提供了丰富的自然教育体验，让游客在欣赏美景的同时了解当地的生态环境。"
+      },
+      {
+        "id": "nature",
+        "title": "自然体验",
+        "content": "Cascada Velo de Novia 坐落在巴耶－德布拉沃附近的自然保护区内，周围被茂密的植被环绕。从这里可以欣赏到瀑布的壮丽景色，听到水流的声音，感受大自然的宁静。尤其是在雨季（6月至9月），瀑布水量充沛，景色更加壮观。这里也是拍摄自然风光的经典机位。"
+      },
+      {
+        "id": "experience",
+        "title": "游览体验",
+        "content": "参观 Cascada Velo de Novia 是一次融合自然美景与生态教育的绝佳体验。您可以沿生态步道（Paseo Ecológico Interpretativo）漫步，欣赏瀑布和周围的自然风光；在观景台拍摄令人难忘的照片；了解当地的 flora y fauna（动植物）。这里也是野餐和放松身心的绝佳地点，让您远离城市的喧嚣。"
+      },
+      {
+        "id": "rules",
+        "title": "游客须知",
+        "content": "1. 请尊重自然环境，不要乱扔垃圾或破坏植被。\n2. 步道区域请注意安全，尤其是在湿滑的路段。\n3. 请保持环境整洁，不要在水域中游泳或洗涤。\n4. 建议结伴游览，尤其是在傍晚和雨天。"
+      },
+      {
+        "id": "species",
+        "title": "周边景点",
+        "content": "Cascada Velo de Novia 周边还有多个值得一游的景点：巴耶－德布拉沃市中心（Presa de Valle de Bravo，水库和户外活动区）、Avándaro 高尔夫度假村、以及美丽的殖民风格小镇。从瀑布驾车返回市中心，可以轻松到达这些景点，享受完整的巴耶－德布拉沃之旅。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "Cascada Velo de Novia",
+    "type": "景点类型",
+    "typeValue": "瀑布 / 观景台 / 生态公园",
+    "country": "国家",
+    "countryValue": "墨西哥",
+    "city": "州/省",
+    "cityValue": "墨西哥州巴耶－德布拉沃",
+    "googleRating": "谷歌评分",
+    "address": "地址",
+    "addressValue": "Manzana 025, San Lorenzo, 51200 Valle de Bravo, State of Mexico, 墨西哥",
+    "plusCode": "GPS 坐标",
+    "plusCodeValue": "5V75+J4 巴耶－德布拉沃 墨西哥墨西哥州"
+  },
+  "hours": {
+    "title": "开放时间",
+    "outdoor": "瀑布观景区",
+    "outdoorTime": "全天开放（公共自然区域）",
+    "lighthouse": "生态步道",
+    "summer": "每日",
+    "summerTime": "全天开放（具体时间请提前确认）",
+    "warning": "重要提示",
+    "warningTime": "雨季（6月至9月）瀑布景色更佳，但步道可能湿滑，请注意安全",
+    "tip": "早晨时分前往可以避开人群，享受更宁静的自然体验"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "outdoor": "瀑布观景区",
+    "outdoorPrice": "免费（公共自然区域）",
+    "lighthouse": "生态步道 (Paseo Ecológico)",
+    "adults": "成人",
+    "adultsPrice": "可能有门票费用（价格可能变动）",
+    "students": "儿童/学生",
+    "studentsPrice": "可能有折扣（需出示证件）",
+    "children": "停车费",
+    "childrenPrice": "可能有停车费用",
+    "card": "建议",
+    "cardPrice": "早晨前往欣赏自然风光，携带相机拍摄瀑布，穿舒适步行鞋，携带饮用水"
+  },
+  "transport": {
+    "title": "交通方式",
+    "airport": "从机场出发",
+    "airportDesc": "最近机场：托卢卡国际机场（TLC），距巴耶－德布拉沃约 80 公里，驾车约 1-1.5 小时。主要国际机场：墨西哥城国际机场（MEX），距此约 150 公里，驾车约 2-2.5 小时。",
+    "selfDrive": "自驾前往",
+    "selfDriveDesc": "从墨西哥城出发，沿墨西哥城-托卢卡高速公路（MEX-134）行驶约 1.5-2 小时可到达巴耶－德布拉沃。从巴耶－德布拉沃市中心前往瀑布约 15-20 分钟车程。",
+    "bus": "公共交通",
+    "busDesc": "从墨西哥城 Observatorio 巴士站乘坐长途巴士前往巴耶－德布拉沃，车程约 2-3 小时。到达巴耶－德布拉沃后，可乘坐出租车或 colectivo（共享出租车）前往瀑布。",
+    "intercity": "市内交通",
+    "intercityDesc": "从巴耶－德布拉沃市中心乘坐出租车或 colectivo 约 15-20 分钟可到达瀑布入口。也可自驾或参加当地的一日游团。",
+    "cycling": "周边服务",
+    "cyclingDesc": "瀑布附近可能有停车场、小食摊。巴耶－德布拉沃市区内 有银行、ATM、药房、餐厅、酒店等完善服务设施。",
+    "tips": "出行建议",
+    "tipsDesc": "Cascada Velo de Novia 是巴耶－德布拉沃必访的自然景点，建议早晨前往，可以享受更宁静的自然体验。从巴耶－德布拉沃市中心乘坐出租车是最便捷的方式。"
+  },
+  "gallery": {
+    "title": "精彩照片",
+    "subtitle": "Cascada Velo de Novia 的魅力风光",
+    "captions": [
+      "瀑布全景",
+      "新娘面纱",
+      "生态步道",
+      "自然风光",
+      "观景台视角",
+      "植被景观",
+      "瀑布细节",
+      "远足小径",
+      "自然保护区",
+      "巴耶－德布拉沃全景"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAllPhotos": "显示全部照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可透过 Google Maps 查看（外部链接）。",
+    "moreReviews": "在Google地图上查看位置",
+    "items": [
+      {
+        "name": "Carlos Mendoza",
+        "date": "1个月前",
+        "rating": 5,
+        "text": "巴耶－德布拉沃必访的自然景点！瀑布非常美丽，水流如新娘面纱般轻柔。生态步道也很棒，适合全家出游。"
+      },
+      {
+        "name": "María Fernanda",
+        "date": "2周前",
+        "rating": 5,
+        "text": "令人印象深刻的自然景观，瀑布周围的自然环境保护得很好。从观景台拍摄的照片简直完美，强烈推荐早晨前来。"
+      },
+      {
+        "name": "Roberto López",
+        "date": "3周前",
+        "rating": 5,
+        "text": "从巴耶－德布拉沃市中心开车约 15 分钟就到了，交通很方便。瀑布景色令人放松，是逃离城市喧嚣的好地方。"
+      },
+      {
+        "name": "Sofía Martínez",
+        "date": "1个月前",
+        "rating": 4,
+        "text": "很棒的自然景点。瀑布本身很美，生态步道也很有教育意义。建议穿舒适的步行鞋，部分路段可能湿滑。"
+      },
+      {
+        "name": "Alejandro Torres",
+        "date": "2个月前",
+        "rating": 5,
+        "text": "雨季前来瀑布水量充沛，景色更加壮观。Paseo Ecológico 生态步道设计得很好，适合散步和拍照。"
+      },
+      {
+        "name": "Luisa Hernández",
+        "date": "3周前",
+        "rating": 5,
+        "text": "这是我在巴耶－德布拉沃最喜欢的自然景点！瀑布和周围的自然环境令人难忘，尤其是清晨时分，雾气缭绕宛如仙境。"
+      },
+      {
+        "name": "Miguel Ángel",
+        "date": "1个月前",
+        "rating": 4,
+        "text": "美丽的瀑布，位置便利。可以在这里待上一个小时，静静地欣赏自然美景。建议带一瓶水，墨西哥高原比较干燥。"
+      },
+      {
+        "name": "Carmen Rivera",
+        "date": "2周前",
+        "rating": 5,
+        "text": "完美的自然景点！瀑布景色宜人，生态步道适合各个年龄段的游客。一定要在早晨前来，光线柔和，游客也少。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Manzana 025, San Lorenzo, 51200 Valle de Bravo, State of Mexico, 墨西哥",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 Cascada Velo de Novia. 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "相关资源与资讯",
+    "officialLinks": {
+      "visitmexico": {
+        "name": "墨西哥国家旅游局",
+        "url": "https://visitmexico.com/"
+      },
+      "sectur": {
+        "name": "墨西哥联邦政府旅游部",
+        "url": "https://www.gob.mx/sectur"
+      },
+      "culturaedomex": {
+        "name": "墨西哥州文化与旅游局",
+        "url": "https://cultura.edomex.gob.mx/"
+      },
+      "conanp": {
+        "name": "墨西哥国家自然保护区委员会 - 应巴耶－德布拉沃",
+        "url": "https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=185"
+      }
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 我们收集的信息",
+        "content": "我们仅收集提供服务所必需的最低限度数据。这些数据可能包括：浏览数据（IP 地址、浏览器类型、访问页面）、Cookie 和类似技术，以及您通过联系表格或电子邮件自愿提供的任何信息。"
+      },
+      {
+        "heading": "2. 我们如何使用您的信息",
+        "content": "我们使用收集到的信息用于：改善网站内容和用户体验、分析流量和使用模式、回应请求，以及遵守我们的法律义务。"
+      },
+      {
+        "heading": "3. 第三方服务",
+        "content": "我们的网站可能会使用第三方服务，例如谷歌地图（用于嵌入式地图和位置数据）和谷歌分析（用于流量分析）。这些服务均有各自的隐私政策。"
+      },
+      {
+        "heading": "4. 您的权利",
+        "content": "根据《通用数据保护条例》(GDPR) 及相关法规，您享有以下权利：访问您的个人数据、要求更正或删除、反对处理，以及向监管机构提出投诉。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新时间：2026年6月",
+    "sections": [
+      {
+        "heading": "1. 接受条款",
+        "content": "访问和使用本网站，即表示您同意受这些服务条款的约束。"
+      },
+      {
+        "heading": "2. 内容使用",
+        "content": "本网站所有内容仅供参考。我们是一家独立的第三方旅游信息网站，与任何旅游景点、政府机构或商业运营商均无关联。"
+      },
+      {
+        "heading": "3. 信息的准确性",
+        "content": "我们力求提供准确及时的信息，但无法保证信息的完整性或准确性。行程安排、条件和服务如有变更，恕不另行通知。请务必在出行前通过官方渠道核实重要信息。"
+      },
+      {
+        "heading": "4. 知识产权",
+        "content": "本网站设计和原创内容受版权保护。Google 地图数据的使用符合 Google 的服务条款。"
+      },
+      {
+        "heading": "5. 责任限制",
+        "content": "本网站按现状提供，不作任何担保。对于因使用本网站信息而造成的任何损失，包括但不限于基于本网站内容做出的旅行决定，我们概不负责。"
+      }
+    ]
+  },
+  "management": {
+    "title": "管理信息",
+    "description": "Cascada Velo de Novia 是位于墨西哥州巴耶－德布拉沃的自然景点。该区域作为公共自然区域，由巴耶－德布拉沃市政府和墨西哥州相关部门共同管理，确保游客可以安全地享受自然景观。部分生态步道可能由当地社区或环保组织维护。"
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "最后更新时间：2026年6月\n\n我们使用 Cookie 来改善您的浏览体验。您可以在下方管理您的偏好设置。",
+    "essential": {
+      "title": "必要 Cookie",
+      "description": "这些 Cookie 对于网站正常运行至关重要，无法禁用。",
+      "badge": "始终保持活跃"
+    },
+    "analytics": {
+      "title": "分析型 Cookie",
+      "description": "它们通过收集匿名使用数据，帮助我们了解访客如何与我们的网站互动。",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "激活",
+          "description": "它会收集访客如何使用我们网站的匿名信息。"
+        }
+      ]
+    },
+    "marketing": {
+      "title": "营销 Cookie",
+      "description": "它们用于展示相关广告并衡量广告活动的有效性。",
+      "items": [
+        {
+          "name": "个性化广告",
+          "status": "停用",
+          "description": "它可以根据你的兴趣为你展示相关的广告。"
+        }
+      ]
+    },
+    "save": "保存偏好设置",
+    "saved": "设置已保存！",
+    "preferences": {
+      "items": [
+        {
+          "name": "用户偏好",
+          "status": "激活",
+          "description": "保存您的语言偏好和网站设置。"
+        }
+      ],
+      "title": "偏好 Cookie",
+      "description": "它们记住您的设置，例如语言和主题偏好。"
+    },
+    "consentManagement": "同意管理：您可以随时更改您的 Cookie 设置。请注意，禁用某些 Cookie 可能会影响网站的功能。",
+    "rejectAll": "拒绝一切"
+  }
+}
