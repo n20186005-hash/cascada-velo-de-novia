@@ -1,0 +1,182 @@
+
+
+
+我们网站是
+cascadavelodenovia.com
+检查下有没有错误
+
+cascada-velo-de-novia
+
+墨西哥墨西哥州	Cascada Velo de Novia
+
+Cascada Velo de Novia
+4.7(7,383)
+观景台
+
+Manzana 025, San Lorenzo, 51200 Valle de Bravo, State of Mexico, 墨西哥
+
+5V75+J4 巴耶－德布拉沃 墨西哥墨西哥州
+
+
+单景点买.com域名推荐
+
+字段	填写内容
+国家 / 地区 *	墨西哥
+地址 *	Manzana 025, San Lorenzo
+地址 2（可选）	Cascada Velo de Novia
+城市 *	Valle de Bravo（巴耶 - 德布拉沃）México
+省 / 自治区 / 直辖市 *	墨西哥州（State of Mexico）
+邮政编码 *	51200
+
+
+字段	填写内容
+Country/Region*	Mexico
+Address Line 1*	Manzana 025, San Lorenzo
+Address Line 2（Optional）	Cascada Velo de Novia
+City*	Valle de Bravo
+State/Province*	State of Mexico  /México
+Postal Code*	51200
+
+
+
+
+https://maps.app.goo.gl/ackDBs5M4dCWDmJu6
+
+
+Paseo Ecológico Interpretativo Velo de Novia
+4.7(2,751)
+远足区
+51200, Velo de Novia 137, Avandaro, 51200 Valle de Bravo, Méx., 墨西哥
+5V75+C4 巴耶－德布拉沃 墨西哥墨西哥州
+
+https://maps.app.goo.gl/gtWdamymV5NYM2VK9
+
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 Cascada Velo de Novia 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文、西班牙语、英文，三语言
+
+
+Cascada Velo de Novia
+4.7(7,383)
+观景台
+
+Manzana 025, San Lorenzo, 51200 Valle de Bravo, State of Mexico, 墨西哥
+
+5V75+J4 巴耶－德布拉沃 墨西哥墨西哥州
+
+https://maps.app.goo.gl/ackDBs5M4dCWDmJu6
+
+
+Paseo Ecológico Interpretativo Velo de Novia
+4.7(2,751)
+远足区
+51200, Velo de Novia 137, Avandaro, 51200 Valle de Bravo, Méx., 墨西哥
+5V75+C4 巴耶－德布拉沃 墨西哥墨西哥州
+
+https://maps.app.goo.gl/gtWdamymV5NYM2VK9
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Documents\GitHub\墨西哥\cascada-velo-de-novia\public\gallery\cascada-velo-de-novia (1).jpg
+
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/ackDBs5M4dCWDmJu6
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/ackDBs5M4dCWDmJu6
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/ackDBs5M4dCWDmJu6
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/ackDBs5M4dCWDmJu6
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+
+探索 Cascada Velo de Novia
+和
+基础信息
+之间要加入一个小板块说明这个位置受谁管理
+
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+
+
+删除原先友情链接，新增以下友情链接
+
+墨西哥国家旅游局
+https://visitmexico.com/
+
+墨西哥联邦政府旅游部
+https://www.gob.mx/sectur
+
+墨西哥州文化与旅游局
+https://cultura.edomex.gob.mx/
+
+墨西哥国家自然保护区委员会 - 应巴耶－德布拉沃
+https://descubreanp.conanp.gob.mx/es/conanp/ANP?suri=185
+
+
+
+
+
+
+墨西哥外交部
+https://www.gob.mx/sre
+
+
+
+以上友情链接和以下景点是否匹配Cascada Velo de Novia
+
+4.7(7,383)
+
+观景台
+
+
+
+Manzana 025, San Lorenzo, 51200 Valle de Bravo, State of Mexico, 墨西哥
+
+
+
+5V75+J4 巴耶－德布拉沃 墨西哥墨西哥州
+
+
+
+
+
+
+
+
+
+
+
+瓜纳华托州旅游局
+https://guanajuato.travel/
+
+
+
+国家遗产与历史名胜数据库
+https://lugares.inah.gob.mx/es
+
+莫雷洛斯州旅游
+https://visitmexico.com/es/estado/17/morelos
+
+
+
+国家遗产与历史名胜数据库
+https://lugares.inah.gob.mx/es
+
