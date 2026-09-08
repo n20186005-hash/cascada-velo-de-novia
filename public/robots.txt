@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://monumentoalpipila.com/sitemap.xml
+Disallow: /api/weather
+
+Sitemap: https://cascadavelodenovia.com/sitemap.xml
