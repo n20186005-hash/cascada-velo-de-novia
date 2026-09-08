@@ -4,6 +4,7 @@
   "private": true,
   "description": "Sitio informativo no lucrativo de la Cascada Velo de Novia, Valle de Bravo (Cloudflare Workers)",
   "scripts": {
+    "build": "node --check src/index.js && node --check public/sw.js && node --check public/js/main.js && node --check public/js/i18n.js && node --check public/js/weather.js && node -e \"JSON.parse(require('fs').readFileSync('public/manifest.webmanifest','utf8')); console.log('build ok: sintaxis JS y manifest válidos')\"",
     "dev": "wrangler dev",
     "deploy": "wrangler deploy",
     "serve:static": "python -m http.server 8080 --directory public"
